@@ -14,6 +14,4 @@ It features an interactive, tabbed layout on each bike’s dedicated page to exp
 - ✅ Split-screen homepage with brand selection
 - ✅ Tabbed sections for bike specs
 - ✅ Responsive layout for all devices
-- ✅ Smooth animations and image transitions
-- ✅ Clear and clean UI inspired by professional manufacturer sites
 
